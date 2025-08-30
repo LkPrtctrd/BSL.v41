@@ -1,4 +1,4 @@
-# BSL-V41
+# BSL.v41
 C# Brawl Stars server emulator for version 41.150 with online battles
 
 ## How to play: ##
@@ -23,8 +23,8 @@ Based on [VeloBrawl](https://github.com/XidMods05/brawl-stars-v36-private-server
 
 2: Change Address (and Port if you need it) in the fяida config (lib/armeabi-v7a/libBSL.config.so)
 
-3: Enjoy playing BSL-V41!
+3: Enjoy playing BSL.v41!
 
 ## Screenshots ##
-![BSL-V41](https://raw.githubusercontent.com/LkPrtctrd/BSL-V41/main/Screenshots/menu.png)
-![BSL-V41](https://raw.githubusercontent.com/LkPrtctrd/BSL-V41/main/Screenshots/battle.png)
+![BSL.v41](https://raw.githubusercontent.com/LkPrtctrd/BSL-V41/main/Screenshots/menu.png)
+![BSL.v41](https://raw.githubusercontent.com/LkPrtctrd/BSL-V41/main/Screenshots/battle.png)
